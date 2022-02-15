@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hyveyyy
 - 👀 I’m interested in Coding 💻
-- 🌱 I’m currently learning Lua/Java/Html & CSS
+- 🌱 I currently code in HTML and CSS
 - 📫 How to reach me </Hyvey>🧃#0008
 
 <!---
