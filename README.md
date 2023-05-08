@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Hyveyyy
 - 👀 I’m interested in Coding 💻
-- 🌱 I currently code in HTML and CSS
-- 📫 How to reach me </Hyvey>🧃#0008
 
 <!---
 Hyveyyy/Hyveyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
